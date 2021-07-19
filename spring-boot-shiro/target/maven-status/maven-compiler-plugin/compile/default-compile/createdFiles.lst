@@ -1,0 +1,11 @@
+com\neo\model\UserInfo.class
+com\neo\sevice\impl\UserInfoServiceImpl.class
+com\neo\web\HomeController.class
+com\neo\web\UserInfoController.class
+com\neo\model\SysPermission.class
+com\neo\dao\UserInfoDao.class
+com\neo\ShiroApplication.class
+com\neo\model\SysRole.class
+com\neo\sevice\UserInfoService.class
+com\neo\config\MyShiroRealm.class
+com\neo\config\ShiroConfig.class

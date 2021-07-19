@@ -1,0 +1,28 @@
+spring:
+    datasource:
+      url: jdbc:mysql://localhost:3306/shirouse?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
+      username: root
+      password: 123456
+      schema: database/import.sql
+      sql-script-encoding: utf-8
+#      在springboot2.0之前在resources文件下面使用默认的schema.sql或者schema-all.sql的名字作为文件名的话启动项目的时候就会自动去执行sql文件
+#但是在2.0以后的话无论你是在配置文件中指定了schema: - classpath:xxx.sql还是使用默认的文件名都无法执行sql，解决办法如下：
+#      但是有個問題是，第一次運行需要沒有這條語句，然後shiro正常運行，但是sql語句不會執行
+#      第二次去掉注釋，數據庫和shiro都正常
+#      緊接著第三次就會報錯，疑問
+      initialization-mode: always   # 此处控制数据库脚本初始化,【這個很重要！】
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+    jpa:
+      database: mysql
+      show-sql: true
+      hibernate:
+        ddl-auto: update
+      properties:
+         hibernate:
+            dialect: org.hibernate.dialect.MySQL5Dialect
+
+#  thymeleaf的配置是为了去掉html的校验
+    thymeleaf:
+       cache: false
+       mode: HTML
