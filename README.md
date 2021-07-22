@@ -35,4 +35,9 @@ springboot项目练习
 
 利用redis、mybatis、mysql的项目练习
 
+## 7-spring-boot-shiro
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/spring-boot-shiro)<br/>
+使用shiro进行安全控制
+
+
 
