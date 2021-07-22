@@ -14,6 +14,9 @@ springboot项目练习
 基于xml形式的mybatis练习
 
 ## 3-2-springboot-mybatis-annotation
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-springboot-mybatis-annotation)<br/>
+
+
 基于注解annotation方式的mybatis练习
 
 ## 4-springboot-mybatis-mutil-datasource
