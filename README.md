@@ -26,6 +26,7 @@ springboot项目练习
 使用mybatis搭配数据库，利用druid池，进行针对多数据库的操作
 
 ## 5-2-mybatisGen
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-mybatisGen)<br/>
 使用mybatis-generator进行entity、dao、xml的快速生成
 
 ## 6-springboot-redis
