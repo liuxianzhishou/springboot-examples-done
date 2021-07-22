@@ -20,6 +20,9 @@ springboot项目练习
 基于注解annotation方式的mybatis练习
 
 ## 4-springboot-mybatis-mutil-datasource
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/springboot-mybatis-mutil-datasource)<br/>
+
+
 使用mybatis搭配数据库，利用druid池，进行针对多数据库的操作
 
 ## 5-2-mybatisGen
