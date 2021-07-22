@@ -29,7 +29,10 @@ springboot项目练习
 [here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-mybatisGen)<br/>
 使用mybatis-generator进行entity、dao、xml的快速生成
 
-## 6-springboot-redis
+## 6-redisboot
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/redisboot)<br/>
+
+
 利用redis、mybatis、mysql的项目练习
 
 
