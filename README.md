@@ -8,6 +8,9 @@ springboot项目练习
 最开始的springboot入门练习，生成helloworld
 
 ## 2-2-springboot-mybatis
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-springboot-mybatis)<br/>
+
+
 基于xml形式的mybatis练习
 
 ## 3-2-springboot-mybatis-annotation
