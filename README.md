@@ -31,6 +31,11 @@ springboot项目练习
 
 使用mybatis-generator进行entity、dao、xml的快速生成
 
+## 2-springboot-nettyWebsocket
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-springboot-nettyWebsocket)
+
+使用netty实现websocket进行前后端数据传输
+
 ## redisboot
 [here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/redisboot)<br/>
 
