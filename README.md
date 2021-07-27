@@ -20,13 +20,17 @@ springboot项目练习
 基于注解annotation方式的mybatis练习
 
 ## springboot-mybatis-mutil-datasource
-[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/springboot-mybatis-mutil-datasource)<br/>
+[here:源码链接](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/springboot-mybatis-mutil-datasource)<br/>
+
+[here:博客说明](https://www.cnblogs.com/liuxianzhishou/p/15032769.html)
 
 
 使用mybatis搭配数据库，利用druid池，进行针对多数据库的操作
 
 ## 2-mybatisGen
-[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-mybatisGen)<br/>
+[here:源码链接](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-mybatisGen)<br/>
+
+[here:博客说明](https://www.cnblogs.com/liuxianzhishou/p/15065027.html)
 
 
 使用mybatis-generator进行entity、dao、xml的快速生成
