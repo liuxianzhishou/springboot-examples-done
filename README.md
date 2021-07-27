@@ -36,6 +36,11 @@ springboot项目练习
 
 使用netty实现websocket进行前后端数据传输
 
+## 2-mybatisGen-websocket
+[here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/2-mybatisGen-websocket)
+
+接收串口发来的数据，存入数据库中，当前端发来请求时，通过websocket将数据库存入的串口数据，根据串口接收时间查询提取，传到前端
+
 ## redisboot
 [here:点击进入](https://github.com/liuxianzhishou/springboot-examples-done/tree/main/redisboot)<br/>
 
